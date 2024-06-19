@@ -44,6 +44,7 @@ var predefinedRules = map[string]string{
 	"royalroad.com":        ".author-note-portlet,.chapter-content",
 	"slate.fr":             ".field-items",
 	"smbc-comics.com":      "div#cc-comicbody, div#aftercomic",
+	"sports.auto-moto.com": ".article-img, .article-leg, .chapeau, .synopsis > :not(script):not(div):not(ul):not(ul ~ *):not(:has(strong))",
 	"swordscomic.com":      "img#comic-image, div#info-frame.tab-content-area",
 	"techcrunch.com":       "div.article-entry",
 	"theoatmeal.com":       "div#comic",
