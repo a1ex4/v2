@@ -29,6 +29,7 @@ var predefinedRules = map[string]string{
 	"linux.com":            "div.content, div[property]",
 	"mac4ever.com":         "div[itemprop=articleBody]",
 	"monwindows.com":       ".blog-post-body",
+	"motorsport.com":       "h2.text-article-description, div.ms-entity-promo, div.ms-article-content > :not(.relatedContent)",
 	"npr.org":              "#storytext",
 	"oneindia.com":         ".io-article-body",
 	"opensource.com":       "div[property]",
