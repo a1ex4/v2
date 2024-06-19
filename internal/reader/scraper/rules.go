@@ -24,6 +24,7 @@ var predefinedRules = map[string]string{
 	"lapresse.ca":          ".amorce, .entry",
 	"lemonde.fr":           "article",
 	"lepoint.fr":           ".art-text",
+	"lequipe.fr":           ".Article__image, .Article__chapo, .Article__paragraph--text",
 	"lesjoiesducode.fr":    ".blog-post-content img",
 	"lesnumeriques.com":    ".text",
 	"linux.com":            "div.content, div[property]",
